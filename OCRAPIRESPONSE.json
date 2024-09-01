@@ -1,0 +1,1051 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2024-08-08T12:03:18Z",
+  "lastUpdatedDateTime": "2024-08-08T12:03:20Z",
+  "analyzeResult": {
+    "version": "3.0.0",
+    "readResults": [
+      {
+        "page": 1,
+        "angle": 0.0244,
+        "width": 1276,
+        "height": 577,
+        "unit": "pixel",
+        "lines": [
+          {
+            "boundingBox": [
+              50,
+              47,
+              531,
+              50,
+              530,
+              95,
+              50,
+              90
+            ],
+            "text": "Feature Management",
+            "words": [
+              {
+                "boundingBox": [
+                  51,
+                  48,
+                  218,
+                  48,
+                  218,
+                  92,
+                  50,
+                  86
+                ],
+                "text": "Feature",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  226,
+                  48,
+                  530,
+                  51,
+                  530,
+                  94,
+                  225,
+                  92
+                ],
+                "text": "Management",
+                "confidence": 0.981
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              44,
+              151,
+              1030,
+              152,
+              1030,
+              191,
+              44,
+              188
+            ],
+            "text": ". A feature flag is a variable with a binary state of on or off",
+            "words": [
+              {
+                "boundingBox": [
+                  45,
+                  151,
+                  59,
+                  151,
+                  59,
+                  188,
+                  45,
+                  188
+                ],
+                "text": ".",
+                "confidence": 0.853
+              },
+              {
+                "boundingBox": [
+                  66,
+                  151,
+                  95,
+                  151,
+                  95,
+                  188,
+                  66,
+                  188
+                ],
+                "text": "A",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  102,
+                  151,
+                  225,
+                  151,
+                  225,
+                  189,
+                  102,
+                  188
+                ],
+                "text": "feature",
+                "confidence": 0.983
+              },
+              {
+                "boundingBox": [
+                  232,
+                  151,
+                  300,
+                  151,
+                  300,
+                  189,
+                  232,
+                  189
+                ],
+                "text": "flag",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  307,
+                  151,
+                  336,
+                  151,
+                  336,
+                  189,
+                  307,
+                  189
+                ],
+                "text": "is",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  343,
+                  151,
+                  367,
+                  151,
+                  367,
+                  189,
+                  343,
+                  189
+                ],
+                "text": "a",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  374,
+                  151,
+                  509,
+                  152,
+                  509,
+                  190,
+                  374,
+                  189
+                ],
+                "text": "variable",
+                "confidence": 0.982
+              },
+              {
+                "boundingBox": [
+                  516,
+                  152,
+                  588,
+                  152,
+                  588,
+                  190,
+                  516,
+                  190
+                ],
+                "text": "with",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  596,
+                  152,
+                  620,
+                  152,
+                  620,
+                  190,
+                  596,
+                  190
+                ],
+                "text": "a",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  627,
+                  152,
+                  735,
+                  152,
+                  735,
+                  191,
+                  627,
+                  190
+                ],
+                "text": "binary",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  742,
+                  152,
+                  831,
+                  152,
+                  831,
+                  191,
+                  742,
+                  191
+                ],
+                "text": "state",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  839,
+                  152,
+                  875,
+                  152,
+                  875,
+                  191,
+                  839,
+                  191
+                ],
+                "text": "of",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  882,
+                  152,
+                  928,
+                  152,
+                  928,
+                  191,
+                  882,
+                  191
+                ],
+                "text": "on",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  935,
+                  152,
+                  973,
+                  152,
+                  973,
+                  192,
+                  935,
+                  191
+                ],
+                "text": "or",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  981,
+                  152,
+                  1031,
+                  152,
+                  1031,
+                  192,
+                  981,
+                  192
+                ],
+                "text": "off",
+                "confidence": 0.987
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              46,
+              207,
+              816,
+              207,
+              816,
+              244,
+              46,
+              245
+            ],
+            "text": ". Feature flags have an associated code block",
+            "words": [
+              {
+                "boundingBox": [
+                  47,
+                  208,
+                  59,
+                  208,
+                  59,
+                  245,
+                  46,
+                  244
+                ],
+                "text": ".",
+                "confidence": 0.781
+              },
+              {
+                "boundingBox": [
+                  66,
+                  208,
+                  197,
+                  209,
+                  196,
+                  246,
+                  66,
+                  245
+                ],
+                "text": "Feature",
+                "confidence": 0.981
+              },
+              {
+                "boundingBox": [
+                  204,
+                  209,
+                  286,
+                  209,
+                  286,
+                  246,
+                  204,
+                  246
+                ],
+                "text": "flags",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  293,
+                  209,
+                  378,
+                  209,
+                  378,
+                  246,
+                  293,
+                  246
+                ],
+                "text": "have",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  385,
+                  209,
+                  428,
+                  209,
+                  428,
+                  246,
+                  385,
+                  246
+                ],
+                "text": "an",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  436,
+                  209,
+                  617,
+                  209,
+                  617,
+                  244,
+                  436,
+                  246
+                ],
+                "text": "associated",
+                "confidence": 0.98
+              },
+              {
+                "boundingBox": [
+                  624,
+                  209,
+                  708,
+                  208,
+                  709,
+                  243,
+                  624,
+                  244
+                ],
+                "text": "code",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  716,
+                  208,
+                  815,
+                  208,
+                  815,
+                  241,
+                  716,
+                  243
+                ],
+                "text": "block",
+                "confidence": 0.986
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              45,
+              265,
+              1220,
+              265,
+              1220,
+              303,
+              45,
+              302
+            ],
+            "text": ". The state of the feature flag triggers whether the code block runs or",
+            "words": [
+              {
+                "boundingBox": [
+                  45,
+                  267,
+                  66,
+                  267,
+                  67,
+                  299,
+                  46,
+                  298
+                ],
+                "text": ".",
+                "confidence": 0.762
+              },
+              {
+                "boundingBox": [
+                  72,
+                  267,
+                  135,
+                  266,
+                  135,
+                  300,
+                  73,
+                  299
+                ],
+                "text": "The",
+                "confidence": 0.983
+              },
+              {
+                "boundingBox": [
+                  141,
+                  266,
+                  229,
+                  266,
+                  229,
+                  301,
+                  142,
+                  300
+                ],
+                "text": "state",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  235,
+                  266,
+                  270,
+                  266,
+                  271,
+                  301,
+                  235,
+                  301
+                ],
+                "text": "of",
+                "confidence": 0.983
+              },
+              {
+                "boundingBox": [
+                  277,
+                  266,
+                  337,
+                  266,
+                  337,
+                  302,
+                  277,
+                  302
+                ],
+                "text": "the",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  343,
+                  266,
+                  466,
+                  266,
+                  466,
+                  303,
+                  343,
+                  302
+                ],
+                "text": "feature",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  472,
+                  266,
+                  539,
+                  266,
+                  539,
+                  303,
+                  473,
+                  303
+                ],
+                "text": "flag",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  545,
+                  266,
+                  681,
+                  266,
+                  681,
+                  303,
+                  545,
+                  303
+                ],
+                "text": "triggers",
+                "confidence": 0.982
+              },
+              {
+                "boundingBox": [
+                  687,
+                  266,
+                  829,
+                  266,
+                  828,
+                  303,
+                  687,
+                  303
+                ],
+                "text": "whether",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  835,
+                  266,
+                  895,
+                  266,
+                  895,
+                  303,
+                  835,
+                  303
+                ],
+                "text": "the",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  902,
+                  266,
+                  989,
+                  266,
+                  989,
+                  302,
+                  901,
+                  303
+                ],
+                "text": "code",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  995,
+                  266,
+                  1089,
+                  267,
+                  1089,
+                  301,
+                  995,
+                  302
+                ],
+                "text": "block",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  1095,
+                  267,
+                  1175,
+                  267,
+                  1174,
+                  300,
+                  1095,
+                  301
+                ],
+                "text": "runs",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  1181,
+                  267,
+                  1221,
+                  267,
+                  1220,
+                  299,
+                  1180,
+                  300
+                ],
+                "text": "or",
+                "confidence": 0.987
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              72,
+              318,
+              133,
+              316,
+              134,
+              344,
+              73,
+              344
+            ],
+            "text": "not",
+            "words": [
+              {
+                "boundingBox": [
+                  72,
+                  317,
+                  133,
+                  316,
+                  134,
+                  344,
+                  72,
+                  345
+                ],
+                "text": "not",
+                "confidence": 0.987
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              45,
+              369,
+              643,
+              369,
+              643,
+              403,
+              45,
+              404
+            ],
+            "text": ". Features can be filtered based on:",
+            "words": [
+              {
+                "boundingBox": [
+                  45,
+                  373,
+                  62,
+                  372,
+                  62,
+                  404,
+                  46,
+                  404
+                ],
+                "text": ".",
+                "confidence": 0.83
+              },
+              {
+                "boundingBox": [
+                  68,
+                  372,
+                  214,
+                  370,
+                  215,
+                  404,
+                  69,
+                  404
+                ],
+                "text": "Features",
+                "confidence": 0.981
+              },
+              {
+                "boundingBox": [
+                  220,
+                  370,
+                  284,
+                  370,
+                  284,
+                  405,
+                  221,
+                  404
+                ],
+                "text": "can",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  290,
+                  370,
+                  340,
+                  370,
+                  340,
+                  405,
+                  291,
+                  405
+                ],
+                "text": "be",
+                "confidence": 0.987
+              },
+              {
+                "boundingBox": [
+                  346,
+                  370,
+                  467,
+                  370,
+                  467,
+                  405,
+                  346,
+                  405
+                ],
+                "text": "filtered",
+                "confidence": 0.981
+              },
+              {
+                "boundingBox": [
+                  473,
+                  370,
+                  581,
+                  370,
+                  581,
+                  405,
+                  474,
+                  405
+                ],
+                "text": "based",
+                "confidence": 0.986
+              },
+              {
+                "boundingBox": [
+                  587,
+                  370,
+                  642,
+                  371,
+                  642,
+                  405,
+                  587,
+                  405
+                ],
+                "text": "on:",
+                "confidence": 0.981
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              71,
+              419,
+              349,
+              420,
+              349,
+              452,
+              71,
+              450
+            ],
+            "text": "· Simple true/fals flag",
+            "words": [
+              {
+                "boundingBox": [
+                  72,
+                  419,
+                  86,
+                  419,
+                  86,
+                  450,
+                  72,
+                  450
+                ],
+                "text": "·",
+                "confidence": 0.634
+              },
+              {
+                "boundingBox": [
+                  92,
+                  419,
+                  179,
+                  419,
+                  179,
+                  451,
+                  92,
+                  450
+                ],
+                "text": "Simple",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  185,
+                  419,
+                  291,
+                  420,
+                  290,
+                  452,
+                  185,
+                  451
+                ],
+                "text": "true/fals",
+                "confidence": 0.978
+              },
+              {
+                "boundingBox": [
+                  297,
+                  420,
+                  349,
+                  421,
+                  349,
+                  452,
+                  296,
+                  452
+                ],
+                "text": "flag",
+                "confidence": 0.983
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              71,
+              460,
+              597,
+              460,
+              597,
+              491,
+              71,
+              491
+            ],
+            "text": ". Percentages of requests (sticky sessions)",
+            "words": [
+              {
+                "boundingBox": [
+                  71,
+                  460,
+                  87,
+                  460,
+                  87,
+                  491,
+                  71,
+                  491
+                ],
+                "text": ".",
+                "confidence": 0.742
+              },
+              {
+                "boundingBox": [
+                  93,
+                  461,
+                  245,
+                  461,
+                  245,
+                  492,
+                  93,
+                  491
+                ],
+                "text": "Percentages",
+                "confidence": 0.975
+              },
+              {
+                "boundingBox": [
+                  251,
+                  461,
+                  277,
+                  461,
+                  276,
+                  492,
+                  251,
+                  492
+                ],
+                "text": "of",
+                "confidence": 0.988
+              },
+              {
+                "boundingBox": [
+                  283,
+                  461,
+                  389,
+                  461,
+                  389,
+                  492,
+                  282,
+                  492
+                ],
+                "text": "requests",
+                "confidence": 0.982
+              },
+              {
+                "boundingBox": [
+                  395,
+                  461,
+                  476,
+                  461,
+                  476,
+                  491,
+                  395,
+                  492
+                ],
+                "text": "(sticky",
+                "confidence": 0.981
+              },
+              {
+                "boundingBox": [
+                  482,
+                  461,
+                  597,
+                  460,
+                  596,
+                  491,
+                  482,
+                  491
+                ],
+                "text": "sessions)",
+                "confidence": 0.979
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              70,
+              499,
+              461,
+              501,
+              461,
+              531,
+              70,
+              529
+            ],
+            "text": ". Timeframes (valid from/until)",
+            "words": [
+              {
+                "boundingBox": [
+                  70,
+                  500,
+                  90,
+                  500,
+                  90,
+                  529,
+                  70,
+                  529
+                ],
+                "text": ".",
+                "confidence": 0.737
+              },
+              {
+                "boundingBox": [
+                  95,
+                  500,
+                  240,
+                  500,
+                  240,
+                  531,
+                  95,
+                  529
+                ],
+                "text": "Timeframes",
+                "confidence": 0.977
+              },
+              {
+                "boundingBox": [
+                  245,
+                  500,
+                  315,
+                  501,
+                  315,
+                  531,
+                  245,
+                  531
+                ],
+                "text": "(valid",
+                "confidence": 0.984
+              },
+              {
+                "boundingBox": [
+                  320,
+                  501,
+                  461,
+                  502,
+                  461,
+                  532,
+                  320,
+                  531
+                ],
+                "text": "from/until)",
+                "confidence": 0.941
+              }
+            ]
+          },
+          {
+            "boundingBox": [
+              88,
+              540,
+              273,
+              540,
+              273,
+              570,
+              88,
+              570
+            ],
+            "text": "Custom filters",
+            "words": [
+              {
+                "boundingBox": [
+                  93,
+                  541,
+                  191,
+                  541,
+                  192,
+                  571,
+                  93,
+                  571
+                ],
+                "text": "Custom",
+                "confidence": 0.985
+              },
+              {
+                "boundingBox": [
+                  197,
+                  541,
+                  272,
+                  541,
+                  272,
+                  570,
+                  198,
+                  571
+                ],
+                "text": "filters",
+                "confidence": 0.984
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
